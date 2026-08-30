@@ -8,7 +8,6 @@ programa
 		leia(numero)
 		ant=numero-1
 		escreva("O resultado: ",ant)
+//portugol
 		}
-		
 }
-/Portugol Studio 
